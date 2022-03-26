@@ -21,6 +21,7 @@
     "gatsby-plugin-gatsby-cloud": "^4.10.1",
     "gatsby-plugin-image": "^2.10.1",
     "gatsby-plugin-sharp": "^4.10.2",
+    "gatsby-remark-emoji": "^0.0.3",
     "gatsby-source-filesystem": "^4.10.1",
     "gatsby-transformer-sharp": "^4.10.0",
     "react": "^17.0.1",
